@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+*.egg-info/
+build/
+dist/
+.venv/
+venv/
+# 抓取/输出落盘产物
+*.html
+!tests/fixtures/*.html
